@@ -1,0 +1,5 @@
+0x737422b5cb0DEA4e5Dca5606c325Ac3280AE2052
+pass
+
+
+geth --dev --nodiscover --rpc --rpcapi "admin,debug,http,eth,miner,net,personal,shh,txpool,web3" --rpcport "8545" --networkid 15 --mine --minerthreads=1 --etherbase=0x737422b5cb0DEA4e5Dca5606c325Ac3280AE2052
